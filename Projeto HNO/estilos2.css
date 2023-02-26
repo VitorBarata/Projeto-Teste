@@ -1,0 +1,74 @@
+body{
+
+}
+
+.text{
+    margin-top: 15pt;
+    margin-left: 30px;
+}
+
+
+
+
+.title{
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+
+header{
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+
+p{
+    margin-left: 30px;
+   
+}
+
+input{
+    margin-left: 30px;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    
+}
+
+
+.button-send{
+     height: 30px;
+     width: 100px;
+     margin-left: 30px;
+     border-radius: 5px;
+     margin-top: 15;
+     color: white;
+     background-color: black;
+}
+.button{
+    height: 30px;
+    width: 170px;
+     margin-left: 30px;
+     border-radius: 5px;
+     color: white;
+     background-color: black;
+     align-items: start;
+    
+
+}
+
+h3{
+    margin-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
